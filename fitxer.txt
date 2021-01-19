@@ -1,2 +1,9 @@
 Hola soc en Sergi Cladera
+<<<<<<< HEAD
 Hola soy Julian
+=======
+bones, soc n'Àngel
+8 Damas
+Ballesito
+Jorge presente ٩(͡๏̯͡๏)۶ 
+>>>>>>> f796a84b9e919aeec59d9ac3fd41c894be899eaa
